@@ -26,3 +26,9 @@ body {
 .main-screen {
   padding: 0px var(--horizontal-space);
 }
+
+.white-box {
+  display: flex;
+  height: 100px;
+  width: 90vw;
+}

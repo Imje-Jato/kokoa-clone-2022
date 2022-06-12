@@ -123,9 +123,3 @@
   will-change: transform;
   animation: heartBeat 1s linear infinite;
 }
-
-.white-box {
-  display: flex;
-  height: 100px;
-  width: 90vw;
-}
